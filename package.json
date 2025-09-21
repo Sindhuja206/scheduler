@@ -1,0 +1,21 @@
+{
+  "name": "sinapp",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0"
+  },
+  "scripts": {
+  "start": "node send-notification.js"
+}
+}
