@@ -7,7 +7,7 @@ if(!admin.apps.length){
 }
 module.exports=async(req,res)=>{
     try{
-        const token="dIMN3dBYTYCvW5VHoFN-yT:APA91bEByMNiCpZ9hjhvW67qI_CB-UCeyWx7yWAaFGTQ8VbP8oqqZcnoxdF9ODtgWH7kH_3ASNJTykZSnreic_cj_azCQdkL_0NEJQPdW4TSquzW37XAfNQ";
+        const token="c-XeAYfsRRilZyX0x4W4hr:APA91bE3xBoLsf5uOj3vljTmW4EYwv5BMAPxCLIKfU-IxSVyocFPlJTr5tw6_AdRo6N2GTUGyd7ReuiIeWg02D5Q-IWP5gOfbY9xOzqhYvFzcoiyFlFZV_s";
         const message={
             notification:{
                 title:"Hi👋🙌",
